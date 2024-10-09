@@ -1,5 +1,3 @@
 # repository-basic
 
-### 이 repos8tory는,
-*Remote repository의 생성 
-*안녕
+###2020732005 신수환
